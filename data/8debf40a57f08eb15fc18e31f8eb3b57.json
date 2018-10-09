@@ -1,0 +1,4731 @@
+{
+  "status": "SUCCESS",
+  "totalResults": 4,
+  "result": {
+    "docs": [
+      {
+        "sequenceId": "844774896104",
+        "id": "34191384092",
+        "language": "English",
+        "languageCode": "en",
+        "title": "NAB ‘unlawfully’ seized proceeds from customer’s home",
+        "content": "The major bank has admitted to the financial services royal commission that it had “no lawful entitlement” to seize the full sale proceeds of a customer’s home. \n  \nFronting the Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry on Thursday (31 May), NAB’s general manager of strategic business services, Ross McNaughton, conceded that the major bank “had no lawful entitlement” when it claimed the full proceeds of business customer Ross Dillon’s home to pay down his business debt, despite initiating denying the allegation. \n \nThe commission has heard from director of National Music and former NAB business customer Ross Dillon, who, in 2015, was stripped of the sale proceeds of his Goanna Downs family home in Scone, NSW. \n \nMr Dillon’s home was offered as a security for a business loan from NAB, used to finance National Music, a wholesale business that sells imported musical instruments to domestic retailers. \n \nThe commission heard that the business faced financial difficulty during the global financial crisis, which prompted the director to sell his family home to invest $300,000 into the company and move to a smaller home in Melbourne. \n \nHowever, Mr Dillon’s plans were curtailed when NAB claimed the full sale proceeds of his Goanna Downs property, which it used to pay down his business debt. \n \nNAB general manager of strategic business services Ross McNaughton initially denied that the bank had acted unlawfully in a statement he provided to the commission, but he admitted to a change in stance upon questioning from counsel assisting the commission Michael Hodge. \n \nMr Hodge asked: “Is it fair to say you now understand that NAB had no lawful entitlement to insist on the full proceeds of Goanna Downs being used to pay down the debts of National Music?” \n \nMr McNaughton replied: “That’s correct.” \n \nMr Hodge continued: “And you discovered that in the course of preparing to give evidence?” \n \nIn response, Mr McNaughton said: “Yes, I did, because I didn’t have awareness of this prior.” \n \nMr McNaughton apologised for the conflicting evidence. \n \nMr Hodge added: “So, the answer you gave a moment ago, which I understood to be that… you had never understood that NAB had a lawful entitlement to insist on all of the proceeds being used. That answer was incorrect?” \n \nMr McNaughton replied: “Yes, sorry, yes.” \n \nThe hearing continues. \n \nThe third round of hearings began on Monday (21 May) and focuses on loans to small and medium-sized enterprises, with responsible lending and unfair contract terms coming under the spotlight. \n \nThe fourth round of hearings, which will begin on 25 June, will focus on issues affecting Australians who live in remote and regional communities, including farming finance, natural disaster insurance and Aboriginal and Torres Strait Islander Australians’ interactions with financial services entities. \n \n[Related: FOS admits its decision on widow’s loan repayments was ‘wrong’ ]",
+        "publishedDate": "2018-05-31T10:30:00Z",
+        "harvestDate": "2018-05-31T20:31:39Z",
+        "estimatedPublishedDate": "2018-05-31T10:30:00Z",
+        "wordCount": "462",
+        "duplicateGroupId": "34191384092",
+        "media": {
+          "images": [
+            {
+              "url": "https://www.mortgagebusiness.com.au/images/News/nab-building-mb.jpg"
+            }
+          ]
+        },
+        "publishingPlatform": {},
+        "adultLanguage": "false",
+        "topics": [
+          {
+            "name": "Retail banking news",
+            "group": "Finance"
+          },
+          {
+            "name": "Australia news",
+            "group": "Regional"
+          },
+          {
+            "name": "Business latest",
+            "group": "Business"
+          }
+        ],
+        "indexTerms": [
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "COMMERCIAL LENDING",
+            "score": "68"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "BANKING & FINANCE",
+            "score": "92"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "RETAILERS",
+            "score": "72"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "WHOLESALERS",
+            "score": "72"
+          },
+          {
+            "domains": [
+              "IND",
+              "SUB"
+            ],
+            "name": "MUSICAL INSTRUMENTS",
+            "score": "70"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "COMPANY STRATEGY",
+            "score": "76"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MUSIC",
+            "score": "75"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MANAGERS & SUPERVISORS",
+            "score": "77"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MISCONDUCT",
+            "score": "72"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "EVIDENCE",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "SMALL BUSINESS",
+            "score": "76"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "INDIGENOUS PEOPLES",
+            "score": "65"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "BUSINESS FINANCIAL TROUBLE",
+            "score": "76"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "ECONOMIC CRISIS",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "WITNESSES",
+            "score": "69"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "NATURAL DISASTERS",
+            "score": "61"
+          }
+        ],
+        "semantics": {
+          "entities": [
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "National Australia Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Ross Mcnaughton"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Mike Hodges"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Ross Dillon"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "royal commission"
+                }
+              ]
+            }
+          ]
+        },
+        "sentiment": {
+          "score": "-0.025741067",
+          "entities": [
+            {
+              "type": "Person",
+              "value": "NAB",
+              "mentions": "8",
+              "score": "0.0982634",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Ross Dillon",
+              "mentions": "13",
+              "score": "1.20639",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Melbourne",
+              "mentions": "1",
+              "score": "-0.46626",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Michael Hodge",
+              "mentions": "5",
+              "score": "0.493038",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Mr McNaughton",
+              "mentions": "3",
+              "score": "0.0",
+              "evidence": "3",
+              "confident": true
+            }
+          ]
+        },
+        "author": {
+          "name": "Charbel Kadib",
+          "publishingPlatform": {}
+        },
+        "licenses": [
+          {
+            "name": "Publicly Available"
+          }
+        ],
+        "linkedArticles": [],
+        "source": {
+          "id": "130748",
+          "name": "MortgageBusiness.com.au",
+          "homeUrl": "http://www.mortgagebusiness.com.au",
+          "category": "Trade",
+          "editorialRank": "3",
+          "industry": "Banking & Finance",
+          "location": {
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "Oceania",
+            "subregion": "Australia and New Zealand"
+          },
+          "feed": {
+            "id": "553895862",
+            "mediaType": "News",
+            "language": "Unassigned",
+            "rank": {
+              "autoRank": "3",
+              "inboundLinkCount": "0"
+            },
+            "inWhiteList": "true",
+            "editorialTopics": [
+              "News",
+              "Standard"
+            ],
+            "genre": "General"
+          },
+          "url": "http://www.mortgagebusiness.com.au"
+        },
+        "date": "2018-05-31T10:30:00Z",
+        "timestamp": "1527762600000",
+        "summary": "The major bank has admitted to the financial services royal commission that it had “no lawful entitlement” to seize the full sale proceeds of a custom&hellip;"
+      },
+      {
+        "sequenceId": "844774895785",
+        "id": "34191384090",
+        "language": "English",
+        "languageCode": "en",
+        "title": "CBA admits to ‘failures’ in risk function",
+        "content": "The major bank has acknowledged to the royal commission that there were “shortcomings” in the way it identified and addressed risk. \n  \nAppearing before the Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry on Wednesday (30 May), the Commonwealth Bank of Australia’s (CBA) chief risk officer, David Cohen, admitted to failures in the lender’s operation and compliance risk functions. \n \nDuring the course of the week, the commission heard from several former Bankwest business customers who were placed under financial stress after the risk profiles of their loan facilities were re-assessed, with one customer forced to declare bankruptcy. \n \nThe commissioned has alleged that Bankwest’s loan re-assessments were prompted by CBA’s “ Project Magellan ”, which involved a review of Bankwest’s business loan portfolio in order to reduce CBA’s exposure to commercial property, following its acquisition of Bankwest in 2008. \n \nLast week,  the commission also heard from CBA’s general manager of retail, Clive van Horen , regarding the bank’s overcharging of interest to its simple business overdraft (SBO) and business overdraft (BOD) customers. \n \nAfter chief risk officer David Cohen acknowledged such failings, counsel assisting the commission Michael Hodge asked Mr Cohen whether he believed they were a sign of failings in CBA’s risk function.    \n \n“Does it follow then, from what you are saying, if you are identifying some of the issues that have been faced by CBA as intersecting with the risk functions, that there has been some failure of the risk function over time?” Mr Hodge asked. \n \nMr Cohen replied: “Well, I think it’s fair to say that the risk function has not always performed as it should have. So, in that sense of a failure, yes.” \n \nRemuneration incentive not a factor in risk failings \n \nHowever, Mr Cohen denied that remuneration incentives had contributed to risk failings. \n \nMr Hodge asked: “If we take the things that might have contributed to it, is one of them concerned with remuneration incentives?” \n \nIn response, Mr Cohen said: “I don’t think that’s a factor in the risk function, no.” \n \nMr Cohen, however, did not deny that remuneration incentives had contributed to general failings of the bank. \n \nMr Hodge added. “I just want to be clear: you are not suggesting you don’t think remuneration incentives have some relevance to the problems more generally. You are just referring specifically to the risk function, is that right?” \n \nMr Cohen said: “Yes, that’s correct.” \n \nDuring the first round of hearings, which looked into consumer lending,  CBA’s executive general manager, Daniel Huggins, noted that he agreed with findings from the Sedgwick review , which found that certain remuneration incentives led to “poor consumer outcomes”. \n \nCBA grilled further by Hayne \n \nMoreover, Commissioner Kenneth Hayne questioned Mr Cohen about CBA’s failure to produce evidence of misconduct to the commission prior to the commencement of the first round of hearings. \n \nCommissioner Hayne asked whether he was familiar that towards the end of the first round of hearings, the counsel assisting “produced two tables of identified misconduct relating to the previous five years”. \n \nWhen Mr Cohen affirmed that he was, Commissioner Hayne continued: “What, if anything, does that course of events tell me about Commonwealth Bank’s capacity at the start of this calendar year to identify events, including breaches of law, in the immediately preceding five or perhaps 10 years?” \n \nThe CBA executive replied: “Commissioner, I think it tells you that the state of our systems that recorded and aggregated instances of misconduct, such as those that were eventually provided to you, were not particularly advanced. They were not particularly well connected. \n \n“The difficulty that the bank experienced was that various incidents of misconduct were recorded on different systems in different business units, without necessarily being all encompassed in a single business unit.” \n \nThe hearing continues. \n \nThe third round of hearings began on Monday (21 May) and focuses on loans to small and medium-sized enterprises, with responsible lending and unfair contract terms coming under the spotlight. \n \nThe fourth round of hearings, which will begin on 25 June, will focus on issues affecting Australians who live in remote and regional communities, including farming finance, natural disaster insurance and Aboriginal and Torres Strait Islander Australians’ interactions with financial services entities. \n \n[Related: NAB ‘unlawfully’ seized proceeds from customer’s home ]",
+        "publishedDate": "2018-05-31T10:25:00Z",
+        "harvestDate": "2018-05-31T20:31:39Z",
+        "estimatedPublishedDate": "2018-05-31T10:25:00Z",
+        "wordCount": "696",
+        "duplicateGroupId": "34191384090",
+        "media": {},
+        "publishingPlatform": {},
+        "adultLanguage": "false",
+        "topics": [
+          {
+            "name": "Oceania latest",
+            "group": "Regional"
+          },
+          {
+            "name": "Australia news",
+            "group": "Regional"
+          },
+          {
+            "name": "Business latest",
+            "group": "Business"
+          }
+        ],
+        "indexTerms": [
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "COMMERCIAL LENDING",
+            "score": "70"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "BANKING & FINANCE",
+            "score": "90"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "COMMERCIAL PROPERTY",
+            "score": "68"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "CONSUMER LENDING",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "IND",
+              "SUB"
+            ],
+            "name": "RISK MANAGEMENT",
+            "score": "90"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MANAGERS & SUPERVISORS",
+            "score": "74"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MISCONDUCT",
+            "score": "89"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "EXECUTIVES",
+            "score": "76"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "INSOLVENCY & BANKRUPTCY",
+            "score": "72"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "BER",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "STU",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "MUN",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBA",
+            "exchange": "ASX",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "FRA",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBA",
+            "exchange": "SWX",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CMWAY",
+            "exchange": "PINX",
+            "isin": "US2027126000",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAUF",
+            "exchange": "PINX",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAUY",
+            "exchange": "PINX",
+            "isin": "US2027121050",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAPC",
+            "exchange": "ASX",
+            "isin": "AU0000CBAPC9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAPD",
+            "exchange": "ASX",
+            "isin": "AU0000CBAPD7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAHA",
+            "exchange": "ASX",
+            "isin": "AU0000CBAHA0",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAPE",
+            "exchange": "ASX",
+            "isin": "AU0000CBAPE5",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "DUS",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CWW",
+            "exchange": "HAM",
+            "isin": "AU000000CBA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAPF",
+            "exchange": "ASX",
+            "isin": "AU0000CBAPF2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Commonwealth Bank of Australia",
+            "symbol": "CBAPG",
+            "exchange": "ASX",
+            "isin": "AU0000003832",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          }
+        ],
+        "semantics": {
+          "entities": [
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Commonwealth Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "David L. Cohen"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Daniel Huggins"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Mike Hodges"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Kenneth Hayne"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Clive Van horen"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "royal commission"
+                }
+              ]
+            }
+          ]
+        },
+        "sentiment": {
+          "score": "-0.13070896",
+          "entities": [
+            {
+              "type": "Person",
+              "value": "CBA",
+              "mentions": "9",
+              "score": "-4.10792",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Australia",
+              "mentions": "1",
+              "score": "-0.540677",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "David Cohen",
+              "mentions": "14",
+              "score": "-5.83807",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Bankwest",
+              "mentions": "5",
+              "score": "-1.78353",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Product",
+              "value": "Project Magellan",
+              "mentions": "1",
+              "score": "-1.28294",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Clive van Horen",
+              "mentions": "1",
+              "score": "-0.819491",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Michael Hodge",
+              "mentions": "6",
+              "score": "-2.80804",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Daniel Huggins",
+              "mentions": "2",
+              "score": "0.231829",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Commissioner Kenneth Hayne",
+              "mentions": "3",
+              "score": "-1.52532",
+              "evidence": "7",
+              "confident": true
+            }
+          ]
+        },
+        "author": {
+          "name": "Charbel Kadib",
+          "publishingPlatform": {}
+        },
+        "licenses": [
+          {
+            "name": "Publicly Available"
+          }
+        ],
+        "linkedArticles": [],
+        "source": {
+          "id": "130748",
+          "name": "MortgageBusiness.com.au",
+          "homeUrl": "http://www.mortgagebusiness.com.au",
+          "category": "Trade",
+          "editorialRank": "3",
+          "industry": "Banking & Finance",
+          "location": {
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "Oceania",
+            "subregion": "Australia and New Zealand"
+          },
+          "feed": {
+            "id": "553895862",
+            "mediaType": "News",
+            "language": "Unassigned",
+            "rank": {
+              "autoRank": "3",
+              "inboundLinkCount": "0"
+            },
+            "inWhiteList": "true",
+            "editorialTopics": [
+              "News",
+              "Standard"
+            ],
+            "genre": "General"
+          },
+          "url": "http://www.mortgagebusiness.com.au"
+        },
+        "date": "2018-05-31T10:25:00Z",
+        "timestamp": "1527762300000",
+        "summary": "The major bank has acknowledged to the royal commission that there were “shortcomings” in the way it identified and addressed risk. \n  \nAppearing befo&hellip;"
+      },
+      {
+        "sequenceId": "844578146376",
+        "id": "34186556314",
+        "language": "English",
+        "languageCode": "en",
+        "title": "Regional finance to come under royal commission scrutiny",
+        "content": "The financial serves royal commission has announced that the next round of hearings will review issues experienced by customers of financial services entities in remote and regional communities. \n  \nThe fourth round of hearings of the Royal Commission into Misconduct in the Banking, Superannuation, and Financial Services Industry will focus on issues affecting Australians living in remote and regional communities, which relate to farming finance, natural disaster insurance, and Aboriginal and Torres Strait Islander Australians' interactions with financial services entities. \n \nThe hearings will be held in Brisbane from Monday 25 June to Friday 29 June, and in Darwin from 2-6 July. \n \nApplications for leave to appear are not yet open but the commission has said it will advise stakeholders when applications are being accepted. \n \nAdditional information about topics and case studies to be covered during the fourth round of hearings will be published on the commission’s website prior to commencement. \n \nRoyal commission recap \n \nThe first round of public hearings, held between 13 March and 23 March, considered issues concerning the treatment of consumers by banks and financial service providers in connection with credit products, which included residential mortgages, car finance and credit cards. \n \nThe initial round identified breaches of responsible lending obligations by Australia’s major banks and third-party intermediaries, with  ANZ, the  Commonwealth Bank and its third-party subsidiary Aussie Home Loans,   NAB  and  Westpac  all appearing before the commission. \n \nThe second round of public hearings, held between 16 April and 27 April, investigated the conduct of financial advisers, including the treatment of consumers, compliance with the law and community standards and expectations, and the sufficiency of the current legal and regulatory structure. \n \nAmong the revelations of misconduct identified by the commission were  AMP’s concession that its financial planning division charged clients “fees for no service”  as well as  inappropriate advice issued by advisers that adversely affected the financial wellbeing of customers. \n \nThe third round of hearings, which commenced on 21 May and is still underway, has considered the conduct of several of the leading banks in respect of their dealings with small and medium enterprises, in particular in providing credit to businesses. \n \nThe third round of hearings has identified instances of wrongdoing and maladministration in the treatment of small business customers by lenders, with Westpac , the Commonwealth Bank , ANZ , NAB, Suncorp , and the Bank of Queensland all appearing before the commission. \n \nThe third round of hearings will conclude on Friday 1 June. \n \n[Related: ] \n      Charbel Kadib   \nCharbel Kadib is a journalist on the mortgages titles at Momentum Media. \n \nBefore joining the team in 2017, Charbel held roles with public relations agency Fifty Acres, and the Department of Communications and the Arts.  \n \nCharbel graduated from the University of Notre Dame Australia with a Bachelor of Arts (Politics & Journalism).",
+        "publishedDate": "2018-05-30T21:04:16Z",
+        "harvestDate": "2018-05-31T09:03:49Z",
+        "estimatedPublishedDate": "2018-05-30T21:04:16Z",
+        "wordCount": "445",
+        "duplicateGroupId": "34186556314",
+        "media": {
+          "images": [
+            {
+              "url": "https://www.theadviser.com.au/images/News_stories/Farming.jpg"
+            }
+          ]
+        },
+        "publishingPlatform": {},
+        "adultLanguage": "false",
+        "topics": [
+          {
+            "name": "Finance latest",
+            "group": "Finance"
+          },
+          {
+            "name": "Oceania latest",
+            "group": "Regional"
+          },
+          {
+            "name": "Australia news",
+            "group": "Regional"
+          }
+        ],
+        "indexTerms": [
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "COMMERCIAL BANKING",
+            "score": "72"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "MORTGAGE BANKING & FINANCE",
+            "score": "90"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "BANKING & FINANCE",
+            "score": "92"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "PERSONAL FINANCE",
+            "score": "77"
+          },
+          {
+            "domains": [
+              "IND",
+              "SUB"
+            ],
+            "name": "WRITERS",
+            "score": "68"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "PUBLIC RELATIONS",
+            "score": "67"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "REAL ESTATE",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "MORTGAGE LOANS",
+            "score": "71"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "CREDIT CARDS",
+            "score": "68"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "CONSUMER LENDING",
+            "score": "77"
+          },
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "FINANCIAL PLANNING",
+            "score": "89"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "MISCONDUCT",
+            "score": "89"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "CONSUMERS",
+            "score": "89"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "SMALL BUSINESS",
+            "score": "65"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "INVESTIGATIONS",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "CASE STUDIES",
+            "score": "73"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "INDIGENOUS PEOPLES",
+            "score": "56"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "CERTIFICATES, DEGREES & DIPLOMAS",
+            "score": "72"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "NATURAL DISASTERS",
+            "score": "56"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BXZ",
+            "exchange": "FRA",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BOQ",
+            "exchange": "ASX",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BXZ",
+            "exchange": "STU",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BKQNY",
+            "exchange": "PINX",
+            "isin": "US0645251085",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BKQNF",
+            "exchange": "PINX",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BOQPE",
+            "exchange": "ASX",
+            "isin": "",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Sun Corp",
+            "symbol": "6736",
+            "exchange": "TKS",
+            "isin": "JP3336450006",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          },
+          {
+            "name": "Sun Corp",
+            "symbol": "SNCPF",
+            "exchange": "PINX",
+            "isin": "JP3336450006",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": true
+          }
+        ],
+        "semantics": {
+          "entities": [
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Bank of Queensland"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Fifty Acres"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Australia and New Zealand Banking Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Financial Services Industry"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Aussie"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Commonwealth Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Westpac"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Suncorp Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Charbel Kadib charbel Kadib"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Charbel Kadib"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "royal commission"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "University of Notre Dame Australia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Department of Communications and the Arts"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "the Arts"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Momentum Media"
+                }
+              ]
+            }
+          ]
+        },
+        "sentiment": {
+          "score": "0.13961253",
+          "entities": [
+            {
+              "type": "Company",
+              "value": "Superannuation",
+              "mentions": "1",
+              "score": "-0.578716",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Financial Services Industry",
+              "mentions": "1",
+              "score": "-0.578716",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Brisbane",
+              "mentions": "1",
+              "score": "0.0",
+              "evidence": "1",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Australia",
+              "mentions": "1",
+              "score": "0.0859268",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Department of Communications",
+              "mentions": "1",
+              "score": "0.419424",
+              "evidence": "3",
+              "confident": true
+            }
+          ]
+        },
+        "author": {
+          "name": "Charbel Kadib",
+          "publishingPlatform": {}
+        },
+        "licenses": [
+          {
+            "name": "Publicly Available"
+          }
+        ],
+        "linkedArticles": [],
+        "source": {
+          "id": "48326",
+          "name": "The Adviser",
+          "homeUrl": "http://www.theadviser.com.au",
+          "category": "Trade",
+          "editorialRank": "3",
+          "industry": "Banking & Finance",
+          "location": {
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "Oceania",
+            "subregion": "Australia and New Zealand"
+          },
+          "feed": {
+            "id": "169770983",
+            "mediaType": "News",
+            "language": "Unassigned",
+            "rank": {
+              "autoRank": "3",
+              "inboundLinkCount": "0"
+            },
+            "inWhiteList": "true",
+            "editorialTopics": [
+              "News",
+              "Standard"
+            ],
+            "genre": "General"
+          },
+          "url": "http://www.theadviser.com.au"
+        },
+        "date": "2018-05-30T21:04:16Z",
+        "timestamp": "1527714256000",
+        "summary": "The financial serves royal commission has announced that the next round of hearings will review issues experienced by customers of financial services &hellip;"
+      },
+      {
+        "sequenceId": "843215847349",
+        "id": "34150397580",
+        "language": "English",
+        "languageCode": "en",
+        "title": "Top 40: tax flipside of the big bad banks",
+        "content": "The biggest taxpayer in Australia is Commonwealth Bank, which showered the national coffers with an humongous $9.3 billion over three years. Between them, the Big Four banks recorded $31 billion in tax payable. \n \nThese are not the “best” taxpayers. That prize goes to Platinum Asset Management, followed by the ASX and Magellan – as revealed yesterday in the Top 40 Tax Heroes chart which is calculated on tax paid per dollar of income. \n \nBut they are the biggest taxpayers, thanks to the sheer size of their income. It is a perverse truth, perhaps unpalatable for many, that the profits arising from the systemic corruption by the banks and AMP on display at the Royal Commission, has delivered a boost to the budget. \n \nIt is also ironic that, despite noisy calls by the business lobby for a cut in the tax rate from 30 per cent to 20 per cent, none of the banks actually pays the full statutory rate of 30 per cent anyway. \n \nNonetheless, at least as far as funding public services via their income tax goes, the banks have undeniably, in the parlance of footy commentary, “Done good”. \n \nAs the government struggles to get its corporate tax cuts package through parliament it is worth noting that, although the banks are the biggest taxpayers in the country by sector, they are also underpinned by taxpayers. \n  Edit    Pos.  Name  3 Year \nTotal Income  3 Year \nTaxable Income  Margin  3 Year \nTax Payable  Tax Rate      1  Commonwealth Bank  130,098,147,049  32,036,566,931  24.62%  9,270,367,013  28.94%    2  Westpac  113,112,156,753  29,666,147,913  26.23%  8,248,758,970  27.81%    3  NAB  133,385,585,841  35,976,839,573  26.97%  7,376,786,533  20.50%    4  BHP Billiton  100,246,936,137  25,358,972,713  25.30%  6,994,994,601  27.58%    5  Rio Tinto  92,629,765,393  25,097,256,421  27.09%  6,834,252,365  27.23%    6  ANZ  89,157,820,812  25,081,295,190  28.13%  6,008,715,534  23.96%    7  Telstra  79,657,130,730  17,931,088,838  22.51%  5,192,591,311  28.96%    8  Wesfarmers  199,467,164,431  10,384,670,980  5.21%  2,982,555,924  28.72%    9  Woolworths  148,574,353,254  8,126,850,222  5.47%  2,306,487,227  28.38%    10  AMP  90,098,415,016  17,198,630,259  19.09%  1,643,415,167  9.56%    11  Suncorp Group  47,012,368,193  5,519,386,477  11.74%  1,400,209,772  25.37%    12  Woodside Petroleum  21,841,063,013  6,348,672,698  29.07%  1,211,141,717  19.08%    13  Fortescue Metals Group  30,458,930,618  4,327,803,967  14.21%  1,144,621,465  26.45%    14  Japan Australia LNG  6,725,536,535  3,859,278,273  57.38%  1,138,539,380  29.50%    15  Shell Energy Holdings  47,472,892,761  5,523,388,500  11.63%  1,116,515,536  20.21%    16  Robe River Mining Co Pty  6,394,032,282  3,591,168,597  56.16%  1,076,340,221  29.97%    17  Future Fund Investment  6,519,116,236  3,422,393,214  52.50%  1,005,400,277  29.38%    18  Bechtel Australia  27,008,015,225  3,220,722,140  11.93%  966,216,642  30.00%    19  Hancock Prospecting  7,084,205,183  3,245,644,725  45.82%  964,709,442  29.72%    20  BP Regional Australasia  78,329,415,304  3,762,109,825  4.80%  924,811,806  24.58%    21  Mitsui & Co. (Australia)  16,886,453,583  4,163,484,858  24.66%  855,306,096  20.54%    22  Singapore Telecom Australia  26,745,939,496  2,860,313,389  10.69%  783,558,875  27.39%    23  British American Tobacco  11,032,060,353  2,555,969,017  23.17%  762,494,971  29.83%    24  Alcoa Of Australia  11,856,995,546  2,156,772,694  18.19%  633,264,481  29.36%    25  Cimic Group  41,292,632,541  2,246,660,126  5.44%  577,761,113  25.72%    26  QBE Insurance Group  20,490,984,168  2,097,548,265  10.24%  556,422,563  26.53%    27  Philip Morris (Australia)  9,354,037,151  1,770,195,356  18.92%  531,058,606  30.00%    28  AGL Energy  32,761,470,212  1,752,370,140  5.35%  519,707,123  29.66%    29  ASX  2,583,512,851  1,723,701,533  66.72%  504,230,137  29.25%    30  Macquarie Group  26,984,201,514  2,697,730,306  10.00%  489,795,363  18.16%    31  Bendigo And Adelaide Bank  9,801,120,031  1,697,003,185  17.31%  484,471,686  28.55%    32  Burrup Facilities Company  3,693,442,392  1,555,193,438  42.11%  465,859,269  29.96%    33  Allianz Australia  12,745,261,014  1,658,163,163  13.01%  462,352,148  27.88%    34  Ramsay Health Care  12,196,785,993  1,513,753,837  12.41%  449,365,303  29.69%    35  Toyota Motor Corporation  30,798,509,099  1,577,163,375  5.12%  444,297,599  28.17%    36  Nippon Steel & Sumitomo Metal  2,880,821,296  1,494,519,889  51.88%  444,156,404  29.72%    37  Insurance Australia Group  42,774,646,313  2,552,917,646  5.97%  429,038,603  16.81%    38  Insurance Manufacturers  10,345,972,784  1,352,533,986  13.07%  394,333,788  29.16%    39  Bank Of Queensland  7,156,401,982  1,292,485,369  18.06%  380,877,771  29.47%    40  Crown Resorts  11,115,430,162  1,243,639,440  11.19%  357,317,466  28.73%     \nThe question should therefore be asked, why should taxpayers present them with the gift of a 16 per cent cut in the tax rate (30 per cent to 25 per cent is not a 5 per cent cut as often described by tax-cut proponents) when they are so fabulously profitable, protected by sovereign guarantee and so often engaged in criminal behaviour? \n \nArguably, Wesfarmers (Coles) and Woolworths – although ranking below the banks and the two biggest mining companies at #8 and #9 are better taxpayers. \n \nIf you look at their profit margins of 5.2 per cent and 5.5 per cent respectively and then look at the profitability of the banks, whose margins are roughly five times fatter, it is clear that the supermarket duo is in a far tougher environment in terms of logistics, costs and competition. There is a huge difference between making 5c and 27c for every dollar of revenue. The supermarkets are by far the two biggest companies in terms of total income. \n \nAn element of “social licence to operate” also shines through in these rankings. You see it in the good-tax-paying by the banks and by the two top Australian miners but also in the tobacco companies, Philip Morris and BAT which – if state excises and licence fees were included would rank near the top. \n \nIn any case, there is a stark behavioural contrast between the companies on these rankings and the Top 40 Tax Dodgers chart where the typical approach to paying tax is “offshoring profits and onshoring costs”. \n \nMultinational expenses: it’s all show \n \n\n \nThe disparities also shine through at the entity level where we find domestic oil and gas player Woodside at #12 on Top Taxpayers whereas, thanks to their massive loans to related parties offshore, US oil majors Exxon and Chevron pay no tax. \n \nExxonmobil Australia Pty Ltd \n \n\n \nThe heavy-hitters chart also shows the challenges which relentlessly confront the Tax Office. Although BHP and Rio rank at #4 and #5 respectively – paying $14 billion between them over the three years – they are perennially on the hunt for avoidance schemes. And because they are so big, this counts. \n \nIn May 2015, BHP admitted to the Senate committee inquiry on corporate  tax avoidance that it had overstated its tax paid for 2014 by $800 million. Both the resources majors and our #1 on the Tax Dodgers chart, Glencore, have been investigated for their Singapore “marketing hubs” – offshore entities designed to buy commodities on the cheap from Australia before jacking the price up for the final buyers. \n \nGlencore Investment Pty Limited \n \n\n \nThe contrasts are everywhere within sectors. While Crown Resorts sneaks in at #40 on the top taxpayers list, William Hill and a slather of foreign bookmakers are aggressive tax dodgers. AGL is on the heavy-hitters list but EnergyAustralia is #2 on Tax Dodgers and BG #25. \n \nIn cars, Toyota is good but Holden and Ford pay no tax. In infrastructure CIMIC (the old Leighton Holdings makes the top taxpayers list while Broadspectrum, which ran offshore detention camps for government, ranks #15 on Tax Dodgers. \n \nBROADSPECTRUM LIMITED \n \n\n \nConspicuously absent from the top taxpayers chart is Australia’s biggest brewer SAB Miller. Apparently SAB can’t make a profit, and therefore pay any tax, even though it sells reservoirs of beer to Australians. \n \nSabmiller Australia Pty Ltd \n \n\n \nAlthough the amount of tax they pay is high, very few of this Top 40 actually pay the full statutory rate of 30 per cent. Macquarie averaged 18 per cent over the three years, AMP 9.5 per cent and National Australia Bank 20 per cent. \n \nThanks to Martin Lowry and to another contacts who prefer not to be named for their invaluable work in sorting the Tax Office data and advising on methodology. \n \nThe post appeared first on Michael West .",
+        "publishedDate": "2018-05-26T20:53:13Z",
+        "harvestDate": "2018-05-26T21:07:37Z",
+        "estimatedPublishedDate": "2018-05-26T20:53:13Z",
+        "wordCount": "930",
+        "duplicateGroupId": "34150397580",
+        "media": {
+          "images": [
+            {
+              "url": "https://d1gaen5wmrubyi.cloudfront.net/wp-content/uploads/2018/05/taxpayers-2.jpg"
+            }
+          ]
+        },
+        "publishingPlatform": {},
+        "adultLanguage": "false",
+        "topics": [
+          {
+            "name": "Energy industry news",
+            "group": "Industry"
+          },
+          {
+            "name": "Tax news",
+            "group": "Finance"
+          },
+          {
+            "name": "Banking news",
+            "group": "Finance"
+          },
+          {
+            "name": "Oceania latest",
+            "group": "Regional"
+          },
+          {
+            "name": "Australia news",
+            "group": "Regional"
+          }
+        ],
+        "indexTerms": [
+          {
+            "domains": [
+              "IND"
+            ],
+            "name": "BUDGETS",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "TAX RELIEF",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "TAX LAW",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "TAXES & TAXATION",
+            "score": "91"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "INCOME TAX",
+            "score": "78"
+          },
+          {
+            "domains": [
+              "SUB"
+            ],
+            "name": "LOBBYING",
+            "score": "78"
+          }
+        ],
+        "companies": [
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "MUN",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "BER",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "STU",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "FRA",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LGTHF",
+            "exchange": "PINX",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "CIM",
+            "exchange": "ASX",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LGTHY",
+            "exchange": "PINX",
+            "isin": "US17186J1088",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "DUS",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "CIMIC Group Ltd",
+            "symbol": "LTH",
+            "exchange": "HAM",
+            "isin": "AU000000CIM7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "CWLDY",
+            "exchange": "PINX",
+            "isin": "US2285671036",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "CWNHA",
+            "exchange": "ASX",
+            "isin": "AU0000CWNHA9",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "CWNHB",
+            "exchange": "ASX",
+            "isin": "AU0000CWNHB7",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "5CW",
+            "exchange": "FRA",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "5CW",
+            "exchange": "MUN",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "5CW",
+            "exchange": "STU",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "5CW",
+            "exchange": "BER",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "CWLDF",
+            "exchange": "PINX",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "Crown Resorts Ltd",
+            "symbol": "CWN",
+            "exchange": "ASX",
+            "isin": "AU000000CWN6",
+            "titleCount": 0,
+            "contentCount": 2,
+            "primary": true
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "AGL",
+            "exchange": "ASX",
+            "isin": "AU000000AGL7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "N9Z1",
+            "exchange": "BER",
+            "isin": "AU000000AGL7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "N9Z1",
+            "exchange": "STU",
+            "isin": "AU000000AGL7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "N9Z1",
+            "exchange": "FRA",
+            "isin": "AU000000AGL7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "AGLNY",
+            "exchange": "PINX",
+            "isin": "US0012011021",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "AGLNF",
+            "exchange": "PINX",
+            "isin": "AU000000AGL7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "AGL Energy Ltd",
+            "symbol": "AGLHA",
+            "exchange": "ASX",
+            "isin": "AU0000AGLHA0",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "MUN",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "BUE",
+            "isin": "ARDEUT112992",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "FRA",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "MUN",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "HAM",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "DUS",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "BER",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "DUS",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "STU",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "FRA",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "BER",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "ASX",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "STU",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "ETR",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "SWX",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "ETR",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHPLF",
+            "exchange": "PINX",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP",
+            "exchange": "NYS",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHPN",
+            "exchange": "MEX",
+            "isin": "US0886061086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton Ltd",
+            "symbol": "BHP1",
+            "exchange": "HAN",
+            "isin": "AU000000BHP4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "BER",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL1",
+            "exchange": "FRA",
+            "isin": "US05545E2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "MUN",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "DUS",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "STU",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "FRA",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL1",
+            "exchange": "BER",
+            "isin": "US05545E2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "HAM",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "JSE",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL1",
+            "exchange": "STU",
+            "isin": "US05545E2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "ETR",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL1",
+            "exchange": "ETR",
+            "isin": "US05545E2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BBL",
+            "exchange": "NYS",
+            "isin": "US05545E2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BHPBF",
+            "exchange": "PINX",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BIL",
+            "exchange": "HAN",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BLT",
+            "exchange": "LON",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "BHP Billiton PLC",
+            "symbol": "BLT",
+            "exchange": "SWX",
+            "isin": "GB0000566504",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BXZ",
+            "exchange": "FRA",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BOQ",
+            "exchange": "ASX",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BXZ",
+            "exchange": "STU",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BKQNY",
+            "exchange": "PINX",
+            "isin": "US0645251085",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BKQNF",
+            "exchange": "PINX",
+            "isin": "AU000000BOQ8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bank of Queensland Ltd",
+            "symbol": "BOQPE",
+            "exchange": "ASX",
+            "isin": "",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BENPE",
+            "exchange": "ASX",
+            "isin": "AU0000BENPE4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BEN",
+            "exchange": "ASX",
+            "isin": "AU000000BEN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BENHB",
+            "exchange": "ASX",
+            "isin": "AU0000BENHB7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BENPF",
+            "exchange": "ASX",
+            "isin": "AU0000BENPF1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BDJ",
+            "exchange": "FRA",
+            "isin": "AU000000BEN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BDJ",
+            "exchange": "STU",
+            "isin": "AU000000BEN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BXRBF",
+            "exchange": "PINX",
+            "isin": "AU000000BEN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BXRBY",
+            "exchange": "PINX",
+            "isin": "US0816761086",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Bendigo and Adelaide Bank Ltd",
+            "symbol": "BENPG",
+            "exchange": "ASX",
+            "isin": "AU0000BENPG9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "BER",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMTA",
+            "exchange": "BER",
+            "isin": "US1104481072",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "STU",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMTA",
+            "exchange": "FRA",
+            "isin": "US1104481072",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "FRA",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "MUN",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "HAM",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "DUS",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BTI",
+            "exchange": "JSE",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "ETR",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BTAFF",
+            "exchange": "PINX",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BMT",
+            "exchange": "HAN",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BATS",
+            "exchange": "LON",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BTI",
+            "exchange": "NYS",
+            "isin": "US1104481072",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "British American Tobacco PLC",
+            "symbol": "BATS",
+            "exchange": "SWX",
+            "isin": "GB0002875804",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "CROWN",
+            "symbol": "264900",
+            "exchange": "KRX",
+            "isin": "KR7264900002",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "CROWN",
+            "symbol": "26490K",
+            "exchange": "KRX",
+            "isin": "KR726490K013",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FMG",
+            "exchange": "ASX",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJ",
+            "exchange": "STU",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJ",
+            "exchange": "MUN",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJ",
+            "exchange": "FRA",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJ",
+            "exchange": "BER",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJA",
+            "exchange": "BER",
+            "isin": "US34959A2069",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FSUGY",
+            "exchange": "PINX",
+            "isin": "US34959A2069",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FSUMF",
+            "exchange": "PINX",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Fortescue Metals Group Ltd",
+            "symbol": "FVJ",
+            "exchange": "HAM",
+            "isin": "AU000000FMG4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "NRM",
+            "exchange": "BER",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "NRM",
+            "exchange": "STU",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "IAG",
+            "exchange": "ASX",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "NRM",
+            "exchange": "FRA",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "IAUGY",
+            "exchange": "PINX",
+            "isin": "US4578741054",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "IAUGF",
+            "exchange": "PINX",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "NRM",
+            "exchange": "HAM",
+            "isin": "AU000000IAG3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Insurance Australia Group Ltd",
+            "symbol": "IAGPD",
+            "exchange": "ASX",
+            "isin": "AU0000IAGPD3",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "4M4",
+            "exchange": "BER",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "4M4",
+            "exchange": "FRA",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MQG",
+            "exchange": "ASX",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "4M4",
+            "exchange": "MUN",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "4M4",
+            "exchange": "STU",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MQBKY",
+            "exchange": "PINX",
+            "isin": "US55607P2048",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MCQEF",
+            "exchange": "PINX",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "4M4",
+            "exchange": "HAM",
+            "isin": "AU000000MQG1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MBLPA",
+            "exchange": "ASX",
+            "isin": "AU0000MBLPA9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MQGPB",
+            "exchange": "ASX",
+            "isin": "AU0000MQGPB5",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MQGPA",
+            "exchange": "ASX",
+            "isin": "AU0000MQGPA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Macquarie Group Ltd",
+            "symbol": "MQGPC",
+            "exchange": "ASX",
+            "isin": "",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MTS1",
+            "exchange": "STU",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MTS1",
+            "exchange": "DUS",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MTS1",
+            "exchange": "MUN",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MTS1",
+            "exchange": "BER",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "8031",
+            "exchange": "NGO",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MTS1",
+            "exchange": "FRA",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "8031",
+            "exchange": "FKA",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "8031",
+            "exchange": "SAP",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "8031",
+            "exchange": "TKS",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MITSF",
+            "exchange": "PINX",
+            "isin": "JP3893600001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Mitsui & Co Ltd",
+            "symbol": "MITSY",
+            "exchange": "PINX",
+            "isin": "US6068272029",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Limited",
+            "symbol": "NABHB",
+            "exchange": "ASX",
+            "isin": "AU0000NABHB5",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABPB",
+            "exchange": "ASX",
+            "isin": "AU0000NABPB8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "MUN",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABPA",
+            "exchange": "ASX",
+            "isin": "AU0000NABPA0",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "FRA",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAB",
+            "exchange": "ASX",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "BER",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "DUS",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "STU",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAUBF",
+            "exchange": "PINX",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABZY",
+            "exchange": "PINX",
+            "isin": "US6325254083",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABPC",
+            "exchange": "ASX",
+            "isin": "AU0000NABPC6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NAL",
+            "exchange": "HAM",
+            "isin": "AU000000NAB4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABPE",
+            "exchange": "ASX",
+            "isin": "AU0000NABPE2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABPD",
+            "exchange": "ASX",
+            "isin": "AU0000NABPD4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "National Australia Bank Ltd",
+            "symbol": "NABHA",
+            "exchange": "ASX",
+            "isin": "AU0000NABHA7",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NPS",
+            "exchange": "STU",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NPS",
+            "exchange": "MUN",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NPS",
+            "exchange": "DUS",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NPS",
+            "exchange": "FRA",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NPS",
+            "exchange": "BER",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "5401",
+            "exchange": "NGO",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "5401",
+            "exchange": "FKA",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "5401",
+            "exchange": "TKS",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "5401",
+            "exchange": "SAP",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NSSMY",
+            "exchange": "PINX",
+            "isin": "US65461T1016",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Nippon Steel & Sumitomo Metal Corp",
+            "symbol": "NISTF",
+            "exchange": "PINX",
+            "isin": "JP3381000003",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Platinum Asset Management Ltd",
+            "symbol": "PIJ",
+            "exchange": "BER",
+            "isin": "AU000000PTM6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Platinum Asset Management Ltd",
+            "symbol": "PTM",
+            "exchange": "ASX",
+            "isin": "AU000000PTM6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Platinum Asset Management Ltd",
+            "symbol": "PTMGF",
+            "exchange": "PINX",
+            "isin": "AU000000PTM6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBE",
+            "exchange": "STU",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBE",
+            "exchange": "ASX",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBE",
+            "exchange": "BER",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBE",
+            "exchange": "FRA",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBIEY",
+            "exchange": "PINX",
+            "isin": "US74728G6052",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBEIF",
+            "exchange": "PINX",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "QBE Insurance Group Ltd",
+            "symbol": "QBE",
+            "exchange": "HAM",
+            "isin": "AU000000QBE9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RMY",
+            "exchange": "FRA",
+            "isin": "AU000000RHC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RHCPA",
+            "exchange": "ASX",
+            "isin": "AU0000RHCPA4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RMY",
+            "exchange": "STU",
+            "isin": "AU000000RHC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RHC",
+            "exchange": "ASX",
+            "isin": "AU000000RHC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RMSYF",
+            "exchange": "PINX",
+            "isin": "AU000000RHC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RMY",
+            "exchange": "HAM",
+            "isin": "AU000000RHC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Ramsay Health Care Ltd",
+            "symbol": "RMYHY",
+            "exchange": "PINX",
+            "isin": "US75158L1052",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "FRA",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "RIO",
+            "exchange": "ASX",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "HAM",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "BER",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "DUS",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "MUN",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "STU",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "RIO",
+            "exchange": "SWX",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "RTNTF",
+            "exchange": "PINX",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto Ltd",
+            "symbol": "CRA1",
+            "exchange": "HAN",
+            "isin": "AU000000RIO1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIOA",
+            "exchange": "FRA",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "FRA",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "STU",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO",
+            "exchange": "BUE",
+            "isin": "ARDEUT112638",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "DUS",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "MUN",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIOA",
+            "exchange": "BER",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO N",
+            "exchange": "MEX",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIOA",
+            "exchange": "MUN",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "BER",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "ETR",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIOA",
+            "exchange": "ETR",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO",
+            "exchange": "NYS",
+            "isin": "US7672041008",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RTPPF",
+            "exchange": "PINX",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO1",
+            "exchange": "HAN",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIO",
+            "exchange": "LON",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Rio Tinto PLC",
+            "symbol": "RIOP",
+            "exchange": "SWX",
+            "isin": "GB0007188757",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Sun Corp",
+            "symbol": "6736",
+            "exchange": "TKS",
+            "isin": "JP3336450006",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Sun Corp",
+            "symbol": "SNCPF",
+            "exchange": "PINX",
+            "isin": "JP3336450006",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SU4",
+            "exchange": "FRA",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUNPC",
+            "exchange": "ASX",
+            "isin": "AU0000SUNPC8",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUN",
+            "exchange": "ASX",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SU4",
+            "exchange": "BER",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SU4",
+            "exchange": "STU",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUNPE",
+            "exchange": "ASX",
+            "isin": "AU0000SUNPE4",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SNMCY",
+            "exchange": "PINX",
+            "isin": "US86723Y2090",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SNMYF",
+            "exchange": "PINX",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SU4",
+            "exchange": "HAM",
+            "isin": "AU000000SUN6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUNPF",
+            "exchange": "ASX",
+            "isin": "AU0000SUNPF1",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUNPG",
+            "exchange": "ASX",
+            "isin": "AU0000SUNPG9",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Suncorp Group Ltd",
+            "symbol": "SUNPD",
+            "exchange": "ASX",
+            "isin": "AU0000SUNPD6",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOMA",
+            "exchange": "BER",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "BER",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOMA",
+            "exchange": "FRA",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "7203",
+            "exchange": "NGO",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "DUS",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "HAM",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "MUN",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "STU",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "FRA",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOMA",
+            "exchange": "STU",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TMN",
+            "exchange": "MEX",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "7203",
+            "exchange": "SAP",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "7203",
+            "exchange": "TKS",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "7203",
+            "exchange": "FKA",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "N6FD",
+            "exchange": "SES",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOYMO",
+            "exchange": "SWX",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOMA",
+            "exchange": "ETR",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "ETR",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOYOF",
+            "exchange": "PINX",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TM",
+            "exchange": "NYS",
+            "isin": "US8923313071",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TOM",
+            "exchange": "HAN",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TYT",
+            "exchange": "LON",
+            "isin": "JP3633400001",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Toyota Motor Corp",
+            "symbol": "TM",
+            "exchange": "BUE",
+            "isin": "ARDEUT112083",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WHI",
+            "exchange": "DUS",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WHI",
+            "exchange": "STU",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WHI",
+            "exchange": "FRA",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WIMHY",
+            "exchange": "PINX",
+            "isin": "US96925P1049",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WIMHF",
+            "exchange": "PINX",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WMH",
+            "exchange": "LON",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "William Hill PLC",
+            "symbol": "WHI",
+            "exchange": "BER",
+            "isin": "GB0031698896",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOP",
+            "exchange": "BER",
+            "isin": "US9802283088",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "FRA",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "MUN",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "STU",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WPL",
+            "exchange": "ASX",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "BER",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WPL",
+            "exchange": "SWX",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPEF",
+            "exchange": "PINX",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPEY",
+            "exchange": "PINX",
+            "isin": "US9802283088",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOP",
+            "exchange": "FRA",
+            "isin": "US9802283088",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "DUS",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOP",
+            "exchange": "ETR",
+            "isin": "US9802283088",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          },
+          {
+            "name": "Woodside Petroleum Ltd",
+            "symbol": "WOPA",
+            "exchange": "HAM",
+            "isin": "AU000000WPL2",
+            "titleCount": 0,
+            "contentCount": 1,
+            "primary": false
+          }
+        ],
+        "semantics": {
+          "entities": [
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Glencore"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "SABMiller"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Australia and New Zealand Banking Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "BP"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Leighton Holdings"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Nippon Steel & Sumitomo Metal"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Exxon"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Broadspectrum"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Macquarie Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Allianz Australia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Robe River Mining Co Pty"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Bechtel Australia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Exxonmobil Australia Pty Ltd"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Mitsui & Co."
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Japan Australia LNG"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Westpac"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Suncorp Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Glencore Investment Pty Limited"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Magellan Aerospace"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "QBE Insurance"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Woodside Petroleum"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Shell Energy Holdings"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "National Australia Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "BG Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "EnergyAustralia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Telstra"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Altria"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Burrup Facilities Company"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Australian Securities Exchange"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Woolworths Limited"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Fortescue Metals Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "AGL Energy"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Insurance Australia Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Crown Resorts"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "British American Tobacco"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Insurance Manufacturers"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Commonwealth Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Bank of Queensland"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Wesfarmers"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "BHP Billiton"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Ford Motor Company"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Toyota"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Alcoa Of Australia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Singapore Telecom Australia"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Rio Tinto Group"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Company"
+                },
+                {
+                  "name": "value",
+                  "value": "Chevron Corporation"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Stuart Holden"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Martin Lowry"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "William Hill"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Michael D. West"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Person"
+                },
+                {
+                  "name": "value",
+                  "value": "Robert Coles"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Product"
+                },
+                {
+                  "name": "value",
+                  "value": "Toyota Motor"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "royal commission"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "BHP Steel Building Products"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "School of American Ballet"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Adelaide Bank"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Ramsay Health Care"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "United States Senate"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Big Four"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Platinum Asset management ltd"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Tax Office"
+                }
+              ]
+            },
+            {
+              "properties": [
+                {
+                  "name": "type",
+                  "value": "Organization"
+                },
+                {
+                  "name": "value",
+                  "value": "Tax Dodgers"
+                }
+              ]
+            }
+          ]
+        },
+        "sentiment": {
+          "score": "-0.012209753",
+          "entities": [
+            {
+              "type": "Location",
+              "value": "Australia",
+              "mentions": "5",
+              "score": "-0.548879",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Commonwealth Bank",
+              "mentions": "1",
+              "score": "-0.0158793",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Platinum Asset Management",
+              "mentions": "1",
+              "score": "0.398947",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "ASX",
+              "mentions": "1",
+              "score": "0.398947",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Magellan",
+              "mentions": "1",
+              "score": "0.398947",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Hancock",
+              "mentions": "1",
+              "score": "0.0",
+              "evidence": "1",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Philip Morris",
+              "mentions": "2",
+              "score": "0.618132",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Allianz Australia",
+              "mentions": "1",
+              "score": "0.0",
+              "evidence": "1",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Toyota",
+              "mentions": "3",
+              "score": "0.5",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": " #12",
+              "mentions": "2",
+              "score": "1.24099",
+              "evidence": "7",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Exxon Mobil",
+              "mentions": "1",
+              "score": "1.24099",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Chevron",
+              "mentions": "1",
+              "score": "1.24099",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "BHP",
+              "mentions": "2",
+              "score": "-0.012625",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Rio",
+              "mentions": "1",
+              "score": "-0.012625",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Senate",
+              "mentions": "1",
+              "score": "-0.012625",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Glencore Investment Pty Limited",
+              "mentions": "3",
+              "score": "-0.5",
+              "evidence": "4",
+              "confident": true
+            },
+            {
+              "type": "Location",
+              "value": "Singapore",
+              "mentions": "1",
+              "score": "-0.5",
+              "evidence": "3",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "William Hill",
+              "mentions": "1",
+              "score": "-0.228317",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "AGL",
+              "mentions": "1",
+              "score": "-0.228317",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Ford",
+              "mentions": "1",
+              "score": "0.5",
+              "evidence": "3",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Leighton Holdings",
+              "mentions": "1",
+              "score": "-0.228317",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Broadspectrum",
+              "mentions": "1",
+              "score": "-0.228317",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": " #15",
+              "mentions": "1",
+              "score": "-0.228317",
+              "evidence": "5",
+              "confident": true
+            },
+            {
+              "type": "Company",
+              "value": "Sabmiller Australia Pty Ltd",
+              "mentions": "1",
+              "score": "0.0",
+              "evidence": "1",
+              "confident": true
+            },
+            {
+              "type": "Person",
+              "value": "Martin Lowry",
+              "mentions": "1",
+              "score": "0.0",
+              "evidence": "1",
+              "confident": true
+            }
+          ]
+        },
+        "author": {
+          "name": "Michael West",
+          "publishingPlatform": {}
+        },
+        "licenses": [
+          {
+            "name": "Publicly Available"
+          }
+        ],
+        "linkedArticles": [],
+        "source": {
+          "id": "209928",
+          "name": "Michael West",
+          "homeUrl": "https://www.michaelwest.com.au",
+          "category": "Organisation",
+          "editorialRank": "3",
+          "location": {
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "Oceania",
+            "subregion": "Australia and New Zealand"
+          },
+          "feed": {
+            "id": "635674611",
+            "mediaType": "News",
+            "language": "Unassigned",
+            "rank": {
+              "autoRank": "3",
+              "inboundLinkCount": "3"
+            },
+            "inWhiteList": "true",
+            "editorialTopics": [
+              "Standard",
+              "Organisations"
+            ],
+            "genre": "General"
+          },
+          "url": "https://www.michaelwest.com.au"
+        },
+        "date": "2018-05-26T20:53:13Z",
+        "timestamp": "1527367993000",
+        "summary": "The biggest taxpayer in Australia is Commonwealth Bank, which showered the national coffers with an humongous $9.3 billion over three years. Between t&hellip;"
+      }
+    ]
+  }
+}
